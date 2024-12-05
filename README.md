@@ -2,16 +2,6 @@
 
 This repository contains code designed to test causal reasoning abilities using various models and datasets.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Arguments](#arguments)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Project Overview
 
 This project evaluates the causal reasoning capabilities of different language models by applying them to specific datasets and measuring their performance using defined metrics.
