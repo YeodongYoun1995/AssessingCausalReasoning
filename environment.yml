@@ -1,4 +1,4 @@
-name: yeodong_causal_reasoning
+name: assessing_causal_reasoning
 channels:
   - defaults
 dependencies:
